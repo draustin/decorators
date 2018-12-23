@@ -1,1 +1,1 @@
-from .decorators import Deferrer, inplacemethod, deferred_by_attribute
+from .decorators import Deferrer, inplacemethod, deferred_by_attribute, classproperty, coroutine
